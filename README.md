@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashan Jayakody</h1>
-<h3 align="center">,an enthusiastic undergraduate student at SLIIT university Srilanka. Passionate about software development, data engineering and AI technologies.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashan-jayakody&label=Profile%20views&color=0e75b6&style=flat" alt="ashan-jayakody" /> </p>
 
