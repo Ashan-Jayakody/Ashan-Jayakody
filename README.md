@@ -2,10 +2,6 @@
 
 
 
-- 🌱 I’m currently learning **Data modeling & Warehousing**
-
-- 💬 Ask me about **MERN stack**
-
 - 📫 How to reach me **jayakodyashan25@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
